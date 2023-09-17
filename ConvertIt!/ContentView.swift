@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ConvertIt!
 //
-//  Created by Jorge Pardo on 17/9/23.
+//  Created by Jorge Pardo on 17/9/23 as part of the HWSUI course.
 //
 
 import SwiftUI
